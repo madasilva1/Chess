@@ -28,6 +28,7 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
+
     Fill in your answer here
 
 Now that you have your workspace set up, what do you want to try using Git for?
@@ -36,3 +37,7 @@ Now that you have your workspace set up, what do you want to try using Git for?
 What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
 
 How do the diagrams help you visualize the branch structure?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: Always merges manually isn't good,spend too much time 
