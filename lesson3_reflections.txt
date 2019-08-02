@@ -1,2 +1,7 @@
 
 How can you use the commands git log and git diff to view the history of files?
+A:
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+ 
+ A:you fork when you clone a repository from github to your own repository on github. You clone when you copy all history of a file into your computer and you branche when you open a new branch in your local repository.
