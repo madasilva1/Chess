@@ -1,6 +1,6 @@
 public class Position {
-  private   int row;
-  private   int colum;
+   private int row;
+   private int colum;
 
     Position(int row, int colum){
         this.colum = colum;
