@@ -1,6 +1,3 @@
-package chess;
-
-import javax.swing.text.Position;
 
 public class Rock extends Piece{
     Position position;
