@@ -1,0 +1,17 @@
+  public class Bishop extends Piece{
+    Position position;
+    Bishop(int rw, int cl){
+        this.position.GetColum();
+        this.position.GetColum();
+
+    }
+    boolean isValidMove(Position newPosition){
+        if(Math.abs(newPosition.GetColum() - this.position.GetColum()) == Math.abs(newPosition.GetRow() - this.position.GetRow())){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
+
+}

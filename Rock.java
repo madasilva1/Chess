@@ -1,3 +1,7 @@
+package chess;
+
+import javax.swing.text.Position;
+
 public class Rock extends Piece{
     Position position;
        Rock(int cl,int rw) {
