@@ -3,9 +3,9 @@
 public class Main {
     public static void main(String[] args){
 
-        Rock rock = new Rock(3,9);
+        Bishop bishop = new Bishop();
         Position testPosition = new Position(3,10);
-        if(rock.isValidMove(testPosition)){
+        if(bishop.isValidMove(testPosition)){
             System.out.println("Yes, I can move there.");
         }
         else{
